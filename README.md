@@ -1,4 +1,4 @@
-### Olá, meu nome é Rafael Molina. Atualmente, estudo ciência da computação na Universidade Tecnológica Federal Do Paraná - UTFPR. Sou formado e certificado internacionalmente em língua Inglesa pela Universidade de de Cambridge, na Inglaterra. Além disso, sou cofundador da Autonomus, projeto de tecnologia que você pode checar mais no meu perfil do Linkedin! 👋
+### Olá, meu nome é Rafael Molina. Atualmente, estudo ciência da computação na Universidade Tecnológica Federal Do Paraná - UTFPR. Sou formado e certificado internacionalmente em língua Inglesa pela Universidade de Cambridge, na Inglaterra. Além disso, sou cofundador da Autonomus, projeto de tecnologia criado na faculdade e que você pode checar mais no meu perfil do Linkedin! 👋
 
 <!--
 **rafamolina1/rafamolina1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
