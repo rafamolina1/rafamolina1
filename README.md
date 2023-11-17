@@ -1,4 +1,4 @@
-### Olá, meu nome é Rafael Molina. Atualmente, estudo ciência da computação na Universidade Tecnológica Federal Do Paraná - UTFPR. Sou formado e certificado internacionalmente em língua Inglesa pela Universidade de Cambridge, na Inglaterra. Além disso, sou cofundador da Autonomus, projeto de tecnologia criado na faculdade e que você pode checar mais no meu perfil do Linkedin! 👋
+### Olá, meu nome é Rafael Molina, sou desenvolvedor FullStack com experiência em Flutter, JavaScript, React Native e C. Atualmente desenvolvo meu próprio aplicativo, juntamente com os meus sócios, na linguagem Flutter, o ''Autonomus'' disponível na AppStore e PlayStore. 👋
 
 <!--
 **rafamolina1/rafamolina1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![snake gif](https://github.com/rafamolina1/rafamolina1/blob/output/github-contribution-grid-snake.svg)
