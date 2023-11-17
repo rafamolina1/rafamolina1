@@ -1,4 +1,4 @@
-### Olá, meu nome é Rafael Molina, sou desenvolvedor FullStack com experiência em Flutter, JavaScript, React Native e C. Atualmente desenvolvo meu próprio aplicativo, juntamente com os meus sócios, na linguagem Flutter, o ''Autonomus'' disponível na AppStore e PlayStore. 👋
+### Olá, meu nome é Rafael Molina, sou desenvolvedor FullStack com experiência em Flutter, JavaScript, React Native e C. Atualmente desenvolvo meu próprio aplicativo, juntamente com os meus sócios, na linguagem Flutter, o ''Autonomus'' disponível na AppStore e PlayStore. Estou cursando Ciência da Computação na UTFPR - MD. Sou formado em língua Inglesa pela Cultural Norte Americano - CNA - e certificado internacionalmente pela Universidade de Cambridge na Inglaterra. 👋
 
 <!--
 **rafamolina1/rafamolina1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
