@@ -1,5 +1,6 @@
 ## Hi, I'm Rafael Molina 👋  
-Full-stack & Mobile Developer | Startup Builder | Flutter Specialist
+Full-stack & Mobile Developer | Startup Builder | Flutter Specialist  
+🇧🇷 Brazilian | Fluent in English (Cambridge certified) | Intermediate Spanish | Native Portuguese
 
 🚀 Co-founder and developer of **Autonomus**, a platform that connects clients and service providers securely and efficiently — semifinalist at **Rocket (Globo)**, Brazil’s largest startup reality show.
 
@@ -14,6 +15,7 @@ Full-stack & Mobile Developer | Startup Builder | Flutter Specialist
 ### 🛠️ Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
@@ -49,6 +51,5 @@ Full-stack & Mobile Developer | Startup Builder | Flutter Specialist
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-molina-049a43247/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaeloliveiramolina@gmail.com
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
