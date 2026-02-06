@@ -1,20 +1,21 @@
 ## Hi, I'm Rafael Molina 👋  
-Full-stack & Mobile Developer | Startup Builder |  
-Brazilian | Fluent in English (Cambridge certified) | Intermediate Spanish | Native Portuguese
+**Full-stack & Mobile Developer | Startup Builder | Product-Oriented Engineer**  
+🇧🇷 Brazilian • Fluent in English (Cambridge Certified) • Intermediate Spanish • Native Portuguese
 
 🚀 Co-founder and developer of **Autonomus**, a platform that connects clients and service providers securely and efficiently — semifinalist at **Rocket (Globo)**, Brazil’s largest startup reality show.
 
-🤖 Co-founder of **Entreton**, an AI-powered solution for quality monitoring in companies.
+🤖 Co-founder of **Entreton**, an AI-powered solution for quality monitoring and business insights.
 
-📊 Creator of a **business monitoring platform** for barbershops and retail businesses, focused on chat monitoring, monetization, and operational performance.
+📊 Creator of a **business monitoring SaaS** for barbershops and retail businesses, focused on chat monitoring, monetization, and operational performance.
 
-💡 Passionate about building real-world products, scalable systems, and technology that drives business results.
+💡 I specialize in building **real-world products**, scalable architectures, and systems that directly impact business growth.
 
 ---
 
 ### 🛠️ Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
@@ -27,24 +28,40 @@ Brazilian | Fluent in English (Cambridge certified) | Intermediate Spanish | Nat
 #### 🔹 Autonomus  
 📱 Marketplace connecting clients to service providers  
 🏆 Semifinalist at Rocket (Globo)  
-🛠️ Flutter • Firebase • Scalable architecture  
+🛠️ Flutter • Firebase • Scalable Architecture  
 
 #### 🔹 Entreton  
-🤖 AI-powered platform for quality monitoring and business insights  
-🛠️ AI • Backend • Data analysis  
+🤖 AI-powered platform for quality monitoring and operational insights  
+🛠️ AI • Backend • Data Analysis  
 
 #### 🔹 Business Monitoring Platform  
 📊 SaaS for barbershops and retail businesses  
-💬 Chat monitoring • 💰 Monetization • 📈 Performance analytics  
-🛠️ Flutter • Backend • Business intelligence  
+💬 Chat Monitoring • 💰 Monetization • 📈 Performance Analytics  
+🛠️ Flutter • Backend • Business Intelligence  
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-![Rafael Molina GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafamolina1&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafamolina1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamolina1&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamolina1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rafamolina1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌍 Languages
+
+![English](https://img.shields.io/badge/English-Fluent_%28Cambridge_Certified%29-1f6feb?style=for-the-badge)
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-2ea44f?style=for-the-badge)
+![Spanish](https://img.shields.io/badge/Spanish-Intermediate-f59e0b?style=for-the-badge)
 
 ---
 
