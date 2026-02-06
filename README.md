@@ -40,9 +40,9 @@ Brazilian | Fluent in English (Cambridge certified) | Intermediate Spanish | Nat
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafamolina1&show_icons=true&theme=tokyonight)
+![Rafael Molina GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafamolina1&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafamolina1&layout=compact&theme=tokyonight)
 
