@@ -1,6 +1,10 @@
 ## Hi, I'm Rafael Molina 👋  
 **Full-stack & Mobile Developer | Startup Builder | Product-Oriented Engineer**  
-🇧🇷 Brazilian • Fluent in English (Cambridge Certified) • Intermediate Spanish • Native Portuguese
+🇧🇷 Brazilian • Fluent in English (Cambridge Certified) • Intermediate Spanish • Native Portuguese  
+
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Yes-2ea44f?style=for-the-badge&logo=github)
+
+---
 
 🚀 Co-founder and developer of **Autonomus**, a platform that connects clients and service providers securely and efficiently — semifinalist at **Rocket (Globo)**, Brazil’s largest startup reality show.
 
@@ -8,7 +12,7 @@
 
 📊 Creator of a **business monitoring SaaS** for barbershops and retail businesses, focused on chat monitoring, monetization, and operational performance.
 
-💡 I specialize in building **real-world products**, scalable architectures, and systems that directly impact business growth.
+💡 I build **real-world products**, scalable architectures, and systems that directly impact business growth.
 
 ---
 
