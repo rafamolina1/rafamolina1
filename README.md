@@ -24,17 +24,16 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafamolina1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafamolina1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_id=1" alt="Rafael Molina GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamolina1&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamolina1&layout=compact&theme=tokyonight&hide_border=true&cache_id=1" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rafamolina1&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=rafamolina1&theme=tokyonight&hide_border=true&cache_id=1" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 📫 Let's Connect
