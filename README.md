@@ -1,8 +1,9 @@
-## Hi, I'm Rafael Molina 👋  
-**Full-stack & Mobile Developer | Startup Builder | Product-Oriented Engineer**  
-🇧🇷 Brazilian • Fluent in English (Cambridge Certified) • Intermediate Spanish • Native Portuguese  
+# ## Hi, I'm Rafael Molina 👋 
+**Full-stack & Mobile Developer | Startup Builder | Product-Oriented Engineer** 🇧🇷 Brazilian • Fluent in English (Cambridge Certified) • Intermediate Spanish • Native Portuguese
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-8B5CF6?style=for-the-badge&logo=vercel)](https://seu-link-da-vercel.vercel.app)
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-Yes-2ea44f?style=for-the-badge&logo=github)
+![Vercel Deploy](https://vercelbadge.vercel.app/api/rafamolina1/NOME-DO-SEU-PROJETO)
 
 ---
 
@@ -30,16 +31,16 @@
 ### 🚀 Featured Projects
 
 #### 🔹 Autonomus  
-📱 Marketplace connecting clients to service providers  
-🏆 Semifinalist at Rocket (Globo)  
-🛠️ Flutter • Firebase • Scalable Architecture  
+📱 Marketplace connecting clients to service providers
+🏆 Semifinalist at Rocket (Globo) 
+🛠️ Flutter • Firebase • Scalable Architecture
 
 #### 🔹 Entreton  
 🤖 AI-powered platform for quality monitoring and operational insights  
-🛠️ AI • Backend • Data Analysis  
+🛠️ AI • Backend • Data Analysis
 
 #### 🔹 Business Monitoring Platform  
-📊 SaaS for barbershops and retail businesses  
+📊 SaaS for barbershops and retail businesses
 💬 Chat Monitoring • 💰 Monetization • 📈 Performance Analytics  
 🛠️ Flutter • Backend • Business Intelligence  
 
