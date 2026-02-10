@@ -1,9 +1,9 @@
 # ## Hi, I'm Rafael Molina 👋 
 **Full-stack & Mobile Developer | Startup Builder | Product-Oriented Engineer** 🇧🇷 Brazilian • Fluent in English (Cambridge Certified) • Intermediate Spanish • Native Portuguese
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Online-8B5CF6?style=for-the-badge&logo=vercel)](https://seu-link-da-vercel.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-8B5CF6?style=for-the-badge&logo=vercel)](https://rafamolinadev.vercel.app)
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-Yes-2ea44f?style=for-the-badge&logo=github)
-![Vercel Deploy](https://vercelbadge.vercel.app/api/rafamolina1/NOME-DO-SEU-PROJETO)
+![Vercel Deploy](https://vercelbadge.vercel.app/api/rafamolina1/portfolio)
 
 ---
 
