@@ -5,10 +5,17 @@ Product Engineer • Systems Builder • Business-Oriented Software Developer
 </p>
 
 <p align="center">
-Brazil • Fluent English (Cambridge Certified) • Full-Stack & Mobile Engineering
+🇧🇷 Brazil • Fluent English (Cambridge Certified)
+</p>
+
+<p align="center">
+<a href="#english-version">English</a> • 
+<a href="#versão-em-português">Português</a>
 </p>
 
 ---
+
+<a id="english-version"></a>
 
 ## I design systems that improve how businesses operate.
 
@@ -39,10 +46,10 @@ Engineered to transform quality monitoring and business data into structured dec
 ## Barber Intelligence SaaS  
 Operational visibility platform for barbershops and retail businesses.
 
-Revenue mapping  
-Client lifecycle tracking  
-Chat behavior analysis  
-Performance diagnostics  
+• Revenue mapping  
+• Client lifecycle tracking  
+• Chat behavior analysis  
+• Performance diagnostics  
 
 Built to deliver enterprise-level clarity to small business operations.
 
@@ -51,10 +58,10 @@ Built to deliver enterprise-level clarity to small business operations.
 ## KM de Lucro  
 Logistics profitability intelligence system.
 
-Cost-per-kilometer modeling  
-Fuel efficiency diagnostics  
-Margin projection  
-Operational profitability visibility  
+• Cost-per-kilometer modeling  
+• Fuel efficiency diagnostics  
+• Margin projection  
+• Operational profitability visibility  
 
 Structured to expose real margins inside transportation workflows.
 
@@ -69,16 +76,16 @@ Performance-oriented frontend architecture with live data integration and financ
 
 # Technical Domain
 
-Frontend Architecture  
+Frontend  
 React • TypeScript • Next.js  
 
-Backend Systems  
+Backend  
 NodeJS • .NET • Laravel  
 
 Data & Infrastructure  
 PostgreSQL • MySQL • Docker • Authentication Systems  
 
-Mobile Engineering  
+Mobile  
 Flutter  
 
 ---
@@ -92,13 +99,74 @@ Durability over speed
 
 ---
 
-# Portfolio
+<a id="versão-em-português"></a>
+
+# Versão em Português
+
+## Eu projeto sistemas que melhoram a forma como negócios operam.
+
+Meu trabalho conecta arquitetura de software a performance econômica.
+
+Construo infraestruturas escaláveis, plataformas de inteligência operacional, sistemas de modelagem financeira e aplicações orientadas a produto — pensadas para uso real.
+
+---
+
+# Sistemas Desenvolvidos
+
+## Autonomus  
+Infraestrutura de marketplace conectando clientes e prestadores de serviço.
+
+Projetada para lidar com fluxos operacionais reais, orquestração de serviços e escalabilidade em produção.
+
+Semifinalista do Rocket (Globo), maior reality show de startups do Brasil.
+
+---
+
+## Entreton  
+Plataforma de inteligência operacional baseada em IA.
+
+Transforma dados operacionais em sistemas estruturados de tomada de decisão.
+
+---
+
+## SaaS de Inteligência para Barbearias  
+Plataforma de visibilidade operacional para barbearias e varejo.
+
+• Mapeamento de receita  
+• Ciclo de vida de clientes  
+• Análise de conversas  
+• Diagnóstico de performance  
+
+Criado para entregar clareza empresarial a pequenos negócios.
+
+---
+
+## KM de Lucro  
+Sistema de inteligência financeira para operações logísticas.
+
+• Modelagem de custo por quilômetro  
+• Análise de eficiência de combustível  
+• Projeção de margem  
+• Visibilidade real de lucratividade  
+
+Estruturado para expor margens reais dentro de operações de transporte.
+
+---
+
+## MarketPulse  
+Dashboard financeiro em tempo real.
+
+Arquitetura frontend orientada a performance com integração de dados ao vivo.
+
+---
+
+# Portfólio
 
 https://rafamolinadev.vercel.app
 
 ---
 
-# Contact
+# Contato
 
 LinkedIn  
 https://linkedin.com/in/rafael-molina-049a43247  
