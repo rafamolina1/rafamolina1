@@ -1,7 +1,18 @@
+# 👋 Rafael Molina
+
+<p align="center">
+  <a href="#-english-version">🇺🇸 English</a> |
+  <a href="#-versão-em-português">🇧🇷 Português</a>
+</p>
+
+---
+
 <a id="-english-version"></a>
 
-# ## Hi, I'm Rafael Molina 👋 
-**Full-stack & Mobile Developer | Startup Builder | Product-Oriented Engineer** 🇧🇷 Brazilian • Fluent in English (Cambridge Certified) • Intermediate Spanish • Native Portuguese
+## Hi, I'm Rafael Molina 👋  
+**Full-stack & Mobile Developer | Startup Builder | Product-Oriented Engineer**
+
+🇧🇷 Brazilian • Fluent in English (Cambridge Certified) • Intermediate Spanish • Native Portuguese
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Online-8B5CF6?style=for-the-badge&logo=vercel)](https://rafamolinadev.vercel.app)
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-Yes-2ea44f?style=for-the-badge&logo=github)
@@ -9,7 +20,7 @@
 
 ---
 
-🚀 Co-founder and developer of **Autonomus**, a platform that connects clients and service providers securely and efficiently — semifinalist at **Rocket (Globo)**, Brazil’s largest startup reality show.
+🚀 Co-founder and developer of **Autonomus**, a platform that connects clients and service providers securely and efficiently — semifinalist at Rocket (Globo), Brazil’s largest startup reality show.
 
 🤖 Co-founder of **Entreton**, an AI-powered solution for quality monitoring and business insights.
 
@@ -42,16 +53,16 @@
 ### 🚀 Featured Projects
 
 #### 🔹 Autonomus  
-📱 Marketplace connecting clients to service providers
-🏆 Semifinalist at Rocket (Globo) 
-🛠️ Flutter • Firebase • Scalable Architecture
+📱 Marketplace connecting clients to service providers  
+🏆 Semifinalist at Rocket (Globo)  
+🛠️ Flutter • Firebase • Scalable Architecture  
 
 #### 🔹 Entreton  
 🤖 AI-powered platform for quality monitoring and operational insights  
-🛠️ AI • Backend • Data Analysis
+🛠️ AI • Backend • Data Analysis  
 
 #### 🔹 Business Monitoring Platform  
-📊 SaaS for barbershops and retail businesses
+📊 SaaS for barbershops and retail businesses  
 💬 Chat Monitoring • 💰 Monetization • 📈 Performance Analytics  
 🛠️ Flutter • Backend • Business Intelligence  
 
@@ -85,3 +96,44 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafael-molina-049a43247/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeloliveiramolina@gmail.com)
+
+---
+
+---
+
+<a id="-versão-em-português"></a>
+
+## 👋 Olá, eu sou Rafael Molina  
+
+**Desenvolvedor Full-stack & Mobile | Construtor de Startups | Engenheiro Orientado a Produto**
+
+🇧🇷 Brasileiro • Inglês Fluente (Certificação Cambridge) • Espanhol Intermediário • Português Nativo
+
+🚀 Cofundador e desenvolvedor da **Autonomus**, plataforma que conecta clientes e prestadores de serviço com segurança e eficiência — semifinalista do Rocket (Globo), maior reality show de startups do Brasil.
+
+🤖 Cofundador da **Entreton**, solução baseada em IA para monitoramento de qualidade e insights empresariais.
+
+📊 Criador de um **SaaS de monitoramento empresarial** para barbearias e varejo, focado em monitoramento de chats, monetização e performance operacional.
+
+💡 Desenvolvo **produtos reais**, arquiteturas escaláveis e sistemas que impactam diretamente o crescimento de negócios.
+
+---
+
+### 🛠️ Tecnologias
+
+Flutter • React • NodeJS • .NET • Docker • PostgreSQL • MySQL • Laravel • TypeScript • JavaScript
+
+---
+
+### 🌍 Idiomas
+
+🇺🇸 Inglês — Fluente (Certificação Cambridge)  
+🇧🇷 Português — Nativo  
+🇪🇸 Espanhol — Intermediário  
+
+---
+
+### 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/rafael-molina-049a43247/  
+Email: rafaeloliveiramolina@gmail.com
