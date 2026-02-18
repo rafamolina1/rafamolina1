@@ -1,7 +1,7 @@
 # Rafael Molina
 
 <p align="center">
-Product Engineer • Systems Builder • Business-Oriented Software Architect
+Product Engineer • Systems Builder • Business-Oriented Software Developer
 </p>
 
 <p align="center">
