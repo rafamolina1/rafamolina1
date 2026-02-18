@@ -1,93 +1,121 @@
-# 👋 Rafael Molina
+# Rafael Molina
 
 <p align="center">
-  <a href="#-english-version">🇺🇸 English</a> |
-  <a href="#-versão-em-português">🇧🇷 Português</a>
+Product Engineer • Full-Stack & Mobile Developer • Startup Builder
+</p>
+
+<p align="center">
+🇧🇷 Brazil • Fluent English (Cambridge Certified) • Portuguese Native • Spanish Intermediate
 </p>
 
 ---
 
-<a id="-english-version"></a>
+## I build products that generate business impact.
 
-## Hi, I'm Rafael Molina  
-**Full-stack & Mobile Developer | Product Engineer | Startup Builder**
+Not just applications.  
+Not just features.  
 
-🇧🇷 Brazilian • Fluent in English (Cambridge Certified) • Intermediate Spanish • Native Portuguese  
+I design and engineer scalable systems that solve real operational problems — from marketplaces and SaaS platforms to AI-powered monitoring tools and financial intelligence systems.
 
-I build **real-world digital products** — not just features.
-
-My focus is on scalable architectures, performance, and systems that generate measurable business impact.
+My work sits at the intersection of **technology, product strategy, and business performance.**
 
 ---
 
-## 🚀 Core Products
+# Core Ventures
 
-### 🔹 Autonomus  
-Marketplace connecting clients and service providers securely and efficiently.  
-🏆 Semifinalist at Rocket (Globo), Brazil’s largest startup reality show.  
-🛠️ Flutter • Firebase • Scalable Architecture  
+## Autonomus  
+Marketplace connecting clients and service providers with secure, scalable infrastructure.  
 
-> Built for real users, real operations, and real scalability challenges.
+🏆 Semifinalist at Rocket (Globo), Brazil’s largest startup reality show  
+🛠 Flutter • Firebase • Distributed Architecture  
 
----
-
-### 🔹 Entreton  
-AI-powered platform for quality monitoring and operational insights.  
-🛠️ AI Systems • Backend Architecture • Data Processing  
-
-> Designed to transform operational data into strategic business decisions.
+Built for real users and real operational scale — handling marketplace logic, user flows, service matching, and production-level challenges.
 
 ---
 
-### 🔹 Business Monitoring SaaS  
-Platform built for barbershops and retail businesses.  
-📊 Chat monitoring • Monetization tracking • Performance analytics  
-🛠️ Backend Systems • Business Intelligence • Automation  
+## Entreton  
+AI-driven quality monitoring and operational intelligence platform.  
 
-> Focused on operational efficiency and revenue intelligence.
+🛠 Backend Systems • AI Processing • Data Modeling  
+
+Transforms operational data into actionable insights for business decision-making.
 
 ---
 
-## 🧪 Independent & Portfolio Projects
+# SaaS & Business Platforms
 
-Beyond startups, I continuously design and build digital tools focused on usability, performance, and product validation.
+## Barber Shop SaaS  
+Operational intelligence platform for barbershops and small retail businesses.  
 
-### 🔸 MarketPulse  
+• Revenue tracking  
+• Client lifecycle monitoring  
+• Chat analysis  
+• Performance dashboards  
+• Monetization visibility  
+
+Designed to give small business owners enterprise-level operational clarity.
+
+---
+
+## KM de Lucro  
+Financial intelligence system for logistics and transportation operations.  
+
+• Cost per kilometer calculation  
+• Fuel efficiency analysis  
+• Margin projection  
+• Profitability tracking  
+
+Built to expose real profit margins inside transportation workflows.
+
+---
+
+# Independent Product Engineering
+
+## MarketPulse  
 Real-time financial dashboard for tracking commodities, currencies, and market indicators.  
-⚡ Performance-focused UI with live data visualization.  
-🛠️ Next.js • TypeScript • API Integration  
 
-> Built for investors and builders who need fast market awareness.
+Performance-driven frontend architecture with live data visualization and API orchestration.
 
 ---
 
-### 🔸 Behavioral Habit App  
-Application focused on habit tracking and behavior reinforcement.  
-🧠 Retention-driven design • Progress systems • Clean UX  
-🛠️ Flutter • Backend Integration  
-
-> Designed around user psychology and long-term engagement.
+## Behavioral Habit App  
+Retention-focused habit tracking system designed around behavioral psychology principles and long-term engagement loops.
 
 ---
 
-## 🛠️ Technical Stack
+# Technical Scope
 
-Flutter • React • NodeJS • .NET • Docker • PostgreSQL • MySQL • Laravel • TypeScript • JavaScript  
+Frontend  
+React • TypeScript • Next.js • Tailwind  
 
-I work across frontend, backend, mobile development, architecture design, and product structuring.
+Backend  
+NodeJS • .NET • Laravel • PostgreSQL • MySQL  
+
+Mobile  
+Flutter  
+
+Infrastructure  
+Docker • API Design • Scalable Architecture • Authentication Systems  
 
 ---
 
-## 🧠 Engineering Philosophy
+# Engineering Philosophy
 
-- Product-first thinking  
-- Scalable architecture from day one  
-- Business impact over vanity metrics  
-- Clean, maintainable systems over shortcuts  
+• Product-first mindset  
+• Architecture before scale problems appear  
+• Business metrics over vanity metrics  
+• Clean systems over temporary hacks  
+• Build for real usage, not demos  
 
 ---
 
-## 📊 GitHub Analytics
+# Portfolio
+
+https://rafamolinadev.vercel.app  
+
+---
+
+# GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafamolina1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -99,49 +127,10 @@ I work across frontend, backend, mobile development, architecture design, and pr
 
 ---
 
-## 🌍 Languages
+# Contact
 
-English — Fluent (Cambridge Certified)  
-Portuguese — Native  
-Spanish — Intermediate  
+LinkedIn  
+https://www.linkedin.com/in/rafael-molina-049a43247/
 
----
-
-## 📫 Connect With Me
-
-Portfolio: https://rafamolinadev.vercel.app  
-LinkedIn: https://www.linkedin.com/in/rafael-molina-049a43247/  
-Email: rafaeloliveiramolina@gmail.com  
-
----
-
-<a id="-versão-em-português"></a>
-
-## 👋 Olá, eu sou Rafael Molina  
-
-**Desenvolvedor Full-stack & Mobile | Product Engineer | Construtor de Startups**
-
-Construo produtos digitais reais com foco em impacto de negócio, escalabilidade e performance.
-
-Tenho experiência no desenvolvimento de marketplaces, plataformas com IA aplicada a operações empresariais e SaaS voltados para monetização e inteligência operacional.
-
----
-
-## 🚀 O que eu desenvolvo
-
-- Marketplaces com arquitetura escalável  
-- Plataformas com IA aplicada a negócio  
-- Sistemas SaaS focados em monetização  
-- Aplicações mobile e web de alto desempenho  
-
----
-
-## 🧠 Mentalidade
-
-- Produto antes da tecnologia  
-- Arquitetura sólida desde o início  
-- Engenharia orientada a resultado  
-- Foco em impacto real  
-
----
-
+Email  
+rafaeloliveiramolina@gmail.com
