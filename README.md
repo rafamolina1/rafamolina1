@@ -1,175 +1,101 @@
 # Rafael Molina
 
-<p align="center">
-Product Engineer • Systems Builder • Business-Oriented Software Developer
-</p>
+Junior Software Developer • Web • Mobile • Fullstack
 
-<p align="center">
-🇧🇷 Brazil • Fluent English (Cambridge Certified)
-</p>
+🇧🇷 Brazil • English C2 (Cambridge Certified)
 
-<p align="center">
-<a href="#english-version">English</a> • 
-<a href="#versão-em-português">Português</a>
-</p>
+[English](#english) • [Português](#português)
 
 ---
 
-<a id="english-version"></a>
+## English
 
-## I design systems that improve how businesses operate.
+I'm a developer focused on building scalable web and mobile applications with clean architecture and real-world impact.
 
-My work connects software architecture to economic performance.
+Co-founder of **Autonomus** — a mobile marketplace semifinalist at **Rocket**, Brazil's largest startup reality show (Grupo Globo). The experience of shipping a real product under competitive pressure shaped how I think about software: architecture decisions have business consequences.
 
-I build scalable infrastructures, operational intelligence platforms, financial modeling systems, and product-driven applications designed for real usage — not prototypes.
-
----
-
-# Engineered Systems
-
-## Autonomus  
-Marketplace infrastructure connecting clients and service providers.
-
-Designed to handle real operational workflows, service orchestration, user growth, and production-level scalability.
-
-Semifinalist at Rocket (Globo), Brazil’s largest startup reality show.
+My stack centers on **React**, **Flutter**, **Node.js**, and **Laravel**, and I'm comfortable across the full stack — from relational database modeling to mobile UI.
 
 ---
 
-## Entreton  
-AI-powered operational intelligence platform.
+### Projects
 
-Engineered to transform quality monitoring and business data into structured decision systems.
+**[BarberManager SaaS](https://github.com/rafamolina1/app-apontamento)**
+Multi-Tenant SaaS platform for WhatsApp interaction monitoring. Built with Next.js 14, TypeScript, Prisma, Clerk, and N8N — with strict tenant data isolation via organization-scoped architecture.
 
----
+**[KM de Lucro](https://github.com/rafamolina1/KM-De-Lucro)**
+Financial management platform for independent freight drivers. Replaces manual spreadsheets with real-time profit/margin calculations, monthly history, and PDF/CSV exports. Built with Next.js 15, TypeScript, and Supabase.
 
-## Barber Intelligence SaaS  
-Operational visibility platform for barbershops and retail businesses.
+**[MarketPulse](https://github.com/rafamolina1/Market-Pulse)**
+Real-time financial dashboard with live crypto data via Binance WebSocket API. Multi-context state architecture, PWA support, PDF/CSV exports, and full PT/EN internationalization. Built with React 18 and Vite.
 
-• Revenue mapping  
-• Client lifecycle tracking  
-• Chat behavior analysis  
-• Performance diagnostics  
-
-Built to deliver enterprise-level clarity to small business operations.
+**[Habit Breaker](https://github.com/rafamolina1/Habit-Breaker)**
+Web app to help users quit smoking. Real-time counter, financial savings tracker, and an AI Coach powered by the Groq API. Built with React, Vite, and Tailwind CSS.
 
 ---
 
-## KM de Lucro  
-Logistics profitability intelligence system.
+### Technical Stack
 
-• Cost-per-kilometer modeling  
-• Fuel efficiency diagnostics  
-• Margin projection  
-• Operational profitability visibility  
+**Frontend / Mobile**
+React • React Native • Flutter • TypeScript • JavaScript (ES6+) • Next.js • Tailwind CSS
 
-Structured to expose real margins inside transportation workflows.
+**Backend**
+Node.js • Laravel • .NET (C#) • RESTful APIs • JWT
 
----
-
-## MarketPulse  
-Real-time financial monitoring dashboard.
-
-Performance-oriented frontend architecture with live data integration and financial interface modeling.
+**Database & Infra**
+PostgreSQL • MySQL • SQL Server • Firebase • Supabase • Docker • Prisma
 
 ---
 
-# Technical Domain
+### Links
 
-Frontend  
-React • TypeScript • Next.js  
-
-Backend  
-NodeJS • .NET • Laravel  
-
-Data & Infrastructure  
-PostgreSQL • MySQL • Docker • Authentication Systems  
-
-Mobile  
-Flutter  
+🌐 Portfolio: [rafamolinadev.vercel.app](https://rafamolinadev.vercel.app)
+💼 LinkedIn: [linkedin.com/in/rafael-molina-049a43247](https://linkedin.com/in/rafael-molina-049a43247)
+📧 Email: rafaelmolinacsgo@gmail.com
 
 ---
 
-# Engineering Principles
+## Português
 
-Architecture before scale problems  
-Business metrics before vanity metrics  
-Systems thinking over feature thinking  
-Durability over speed  
+Sou desenvolvedor focado na construção de aplicações web e mobile escaláveis, com arquitetura limpa e impacto real.
 
----
+Cofundador do **Autonomus** — marketplace mobile semifinalista no **Rocket**, maior reality show de startups do Brasil (Grupo Globo). A experiência de construir um produto real sob pressão competitiva moldou minha visão de software: decisões de arquitetura têm consequências de negócio.
 
-<a id="versão-em-português"></a>
-
-# Versão em Português
-
-## Eu projeto sistemas que melhoram a forma como negócios operam.
-
-Meu trabalho conecta arquitetura de software a performance econômica.
-
-Construo infraestruturas escaláveis, plataformas de inteligência operacional, sistemas de modelagem financeira e aplicações orientadas a produto — pensadas para uso real.
+Minha stack principal é **React**, **Flutter**, **Node.js** e **Laravel**, e me sinto confortável em todo o fullstack — desde modelagem de banco de dados relacional até UI mobile.
 
 ---
 
-# Sistemas Desenvolvidos
+### Projetos
 
-## Autonomus  
-Infraestrutura de marketplace conectando clientes e prestadores de serviço.
+**[BarberManager SaaS](https://github.com/rafamolina1/app-apontamento)**
+Plataforma SaaS Multi-Tenant para monitoramento de interações via WhatsApp. Construída com Next.js 14, TypeScript, Prisma, Clerk e N8N — com isolamento total de dados por organização.
 
-Projetada para lidar com fluxos operacionais reais, orquestração de serviços e escalabilidade em produção.
+**[KM de Lucro](https://github.com/rafamolina1/KM-De-Lucro)**
+Plataforma de gestão financeira para motoristas de carga autônomos. Substitui planilhas manuais por cálculo em tempo real de lucro e margem por viagem, histórico mensal e exportação em PDF/CSV. Construída com Next.js 15, TypeScript e Supabase.
 
-Semifinalista do Rocket (Globo), maior reality show de startups do Brasil.
+**[MarketPulse](https://github.com/rafamolina1/Market-Pulse)**
+Dashboard financeiro em tempo real com cotações de criptoativos via WebSocket da Binance. Arquitetura multi-context, suporte a PWA, exportação PDF/CSV e internacionalização PT/EN. Construído com React 18 e Vite.
 
----
-
-## Entreton  
-Plataforma de inteligência operacional baseada em IA.
-
-Transforma dados operacionais em sistemas estruturados de tomada de decisão.
+**[Habit Breaker](https://github.com/rafamolina1/Habit-Breaker)**
+Aplicação para ajudar pessoas a pararem de fumar. Contador em tempo real, calculadora de economia financeira e AI Coach integrado via API da Groq. Construído com React, Vite e Tailwind CSS.
 
 ---
 
-## SaaS de Inteligência para Barbearias  
-Plataforma de visibilidade operacional para barbearias e varejo.
+### Stack Técnica
 
-• Mapeamento de receita  
-• Ciclo de vida de clientes  
-• Análise de conversas  
-• Diagnóstico de performance  
+**Frontend / Mobile**
+React • React Native • Flutter • TypeScript • JavaScript (ES6+) • Next.js • Tailwind CSS
 
-Criado para entregar clareza empresarial a pequenos negócios.
+**Backend**
+Node.js • Laravel • .NET (C#) • APIs RESTful • JWT
 
----
-
-## KM de Lucro  
-Sistema de inteligência financeira para operações logísticas.
-
-• Modelagem de custo por quilômetro  
-• Análise de eficiência de combustível  
-• Projeção de margem  
-• Visibilidade real de lucratividade  
-
-Estruturado para expor margens reais dentro de operações de transporte.
+**Banco de Dados & Infra**
+PostgreSQL • MySQL • SQL Server • Firebase • Supabase • Docker • Prisma
 
 ---
 
-## MarketPulse  
-Dashboard financeiro em tempo real.
+### Links
 
-Arquitetura frontend orientada a performance com integração de dados ao vivo.
-
----
-
-# Portfólio
-
-https://rafamolinadev.vercel.app
-
----
-
-# Contato
-
-LinkedIn  
-https://linkedin.com/in/rafael-molina-049a43247  
-
-Email  
-rafaeloliveiramolina@gmail.com
+🌐 Portfólio: [rafamolinadev.vercel.app](https://rafamolinadev.vercel.app)
+💼 LinkedIn: [linkedin.com/in/rafael-molina-049a43247](https://linkedin.com/in/rafael-molina-049a43247)
+📧 Email: rafaelmolinacsgo@gmail.com
