@@ -1,3 +1,10 @@
+![Galaxy Header](https://raw.githubusercontent.com/rafamolina1/galaxy-profile/main/assets/generated/galaxy-header.svg)
+![Stats](https://raw.githubusercontent.com/rafamolina1/galaxy-profile/main/assets/generated/stats-card.svg)
+![Tech Stack](https://raw.githubusercontent.com/rafamolina1/galaxy-profile/main/assets/generated/tech-stack.svg)
+![Projects](https://raw.githubusercontent.com/rafamolina1/galaxy-profile/main/assets/generated/projects-constellation.svg)
+
+
+
 # Rafael Molina
 
 Junior Software Developer • Web • Mobile • Fullstack
