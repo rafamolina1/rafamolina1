@@ -57,7 +57,7 @@ PostgreSQL • MySQL • SQL Server • Firebase • Supabase • Docker • Pri
 ### Links
 
 🌐 Portfolio: [rafamolinadev.vercel.app](https://rafamolinadev.vercel.app)
-💼 LinkedIn: [linkedin.com/in/rafael-molina-049a43247](https://linkedin.com/in/rafael-molina-049a43247)
+💼 LinkedIn: [https://www.linkedin.com/in/rafaelmolinadev/](https://www.linkedin.com/in/rafaelmolinadev/)
 📧 Email: rafaelmolinacsgo@gmail.com
 
 ---
@@ -104,5 +104,5 @@ PostgreSQL • MySQL • SQL Server • Firebase • Supabase • Docker • Pri
 ### Links
 
 🌐 Portfólio: [rafamolinadev.vercel.app](https://rafamolinadev.vercel.app)
-💼 LinkedIn: [linkedin.com/in/rafael-molina-049a43247](https://linkedin.com/in/rafael-molina-049a43247)
+💼 LinkedIn: [https://www.linkedin.com/in/rafaelmolinadev/](https://www.linkedin.com/in/rafaelmolinadev/)
 📧 Email: rafaelmolinacsgo@gmail.com
