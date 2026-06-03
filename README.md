@@ -1,7 +1,7 @@
 
 # Rafael Molina
 
-**Full Stack Developer** building web and mobile products, APIs, integrations and systems with real business logic.
+**Backend Developer** building web and mobile products, APIs, integrations and systems with real business logic.
 
 Brazil based • Cambridge C2 English • Portuguese / English / Spanish  
 [Portfolio](https://rafamolinadev.vercel.app) • [LinkedIn](https://www.linkedin.com/in/rafaelmolinadev/) • [Email](mailto:rafaeloliveiramolina@gmail.com)
