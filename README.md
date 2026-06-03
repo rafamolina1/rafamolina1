@@ -6,7 +6,7 @@
 Brazil based • Cambridge C2 English • Portuguese / English / Spanish  
 [Portfolio](https://rafamolinadev.vercel.app) • [LinkedIn](https://www.linkedin.com/in/rafaelmolinadev/) • [Email](mailto:rafaeloliveiramolina@gmail.com)
 
-[English](#english) • [Português](#português)
+[English](#english)
 
 ---
 I am also co-founder of **Autonomus**, a junior company created in college. Autonomus is in production, has two published Flutter apps, and was a **semifinalist on Rocket by Globo**, Brazil's biggest startup reality show. The project also received an **exclusive article published by Globo**, which gave public validation to the product and its market proposal.
