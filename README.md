@@ -19,3 +19,4 @@ I am also co-founder of **Autonomus**, a junior company created in college. Auto
 - **IBM Data Privacy**: data privacy and operational responsibility.
 - **IBM Machine Learning with Python**: applied machine learning with Python.
 - **Remote international experience** using Node.js and English in daily work.
+- **Santander Java Bootcamp**: Full bootcamp using java and AI. 
