@@ -1,6 +1,8 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:06B6D4&height=220&section=header&text=Rafael%20Molina&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Full%20Stack%20Engineer%20%E2%80%A2%20From%20business%20rules%20to%20production&descAlignY=57&descSize=17" alt="Rafael Molina — Backend and Full Stack Engineer" />
+<h1 align="center">Rafael Oliveira Molina</h1>
+<h3 align="center">Backend & Full Stack Engineer</h3>
+<p align="center"><code>APIs • SaaS • Microservices • Product Engineering</code></p>
 
+<div align="center">
   <a href="https://rafamolinadev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/rafaelmolinadev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rafaeloliveiramolina@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -31,7 +33,18 @@ Currently exploring → Java + Spring Boot, AI-enabled backends and cloud-native
 ## Engineering toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,java,spring,postgres,redis,react,flutter,docker,aws,git,linux&perline=7" alt="PHP, Laravel, Node.js, TypeScript, Java, Spring, PostgreSQL, Redis, React, Flutter, Docker, AWS, Git and Linux" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </div>
 
 <br />
@@ -59,12 +72,11 @@ Currently exploring → Java + Spring Boot, AI-enabled backends and cloud-native
 - Worked remotely with an international team using **English at C2 level**.
 - Combined product thinking with hands-on engineering, from requirements to deployment.
 
-## GitHub in motion
+## Current engineering focus
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafamolina1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" alt="Rafael Molina's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamolina1&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
-</div>
+| Production | Open source & learning | Product ownership |
+|---|---|---|
+| Evolving a multi-tenant SaaS with Laravel, PostgreSQL, queues, testing and observability. | Building with Java 21, Spring Boot and Spring AI through projects such as [ByteBank Budgeting AI](https://github.com/rafamolina1/dio-final-project). | Turning business needs into maintainable software, from domain modeling and APIs to deployment and monitoring. |
 
 ## Credentials & education
 
@@ -94,4 +106,4 @@ I'm open to **remote Backend and Full Stack opportunities** where I can own mean
   <a href="mailto:rafaeloliveiramolina@gmail.com"><strong>Email</strong></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:06B6D4&height=100&section=footer" alt="Footer" />
+<p align="center"><sub>Build clearly. Test what matters. Ship with ownership.</sub></p>
