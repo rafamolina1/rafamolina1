@@ -50,19 +50,6 @@ Currently exploring → Java + Spring Boot, AI-enabled backends and cloud-native
 
 </details>
 
-## What I've delivered
-
-- Designed maintainable domain and API patterns for **Domus Control**, including tenant isolation and granular `own/all` permissions.
-- Built backend services used in **international logistics and financial workflows**.
-- Shipped **two mobile applications** to both major app stores.
-- Worked remotely with an international team using **English at C2 level**.
-- Combined product thinking with hands-on engineering, from requirements to deployment.
-
-## Current engineering focus
-
-| Production | Open source & learning | Product ownership |
-|---|---|---|
-| Evolving **Domus Control**, a church management SaaS, with Laravel, PostgreSQL, permissions, queues, testing and observability. | Building with Java 21, Spring Boot and Spring AI through projects such as [ByteBank Budgeting AI](https://github.com/rafamolina1/dio-final-project). | Turning business needs into maintainable software, from domain modeling and APIs to deployment and monitoring. |
 
 ## Credentials & education
 
