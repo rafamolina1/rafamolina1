@@ -11,24 +11,21 @@
 
 ## Hey, I'm Rafael 👋
 
-I'm a **Backend Engineer** from Brazil, building software professionally since 2022. I turn complex business rules into reliable APIs, integrations and products — with a strong focus on architecture, code quality and maintainability.
+I'm a Backend Software Engineer with 5 years of experience building backend systems across logistics, SaaS and on-demand platforms.
 
-Today I work at **Domus Control**, evolving the backend of a multi-tenant SaaS for church management with PHP, Laravel and PostgreSQL. My work includes tenant isolation, authentication, authorization and granular permissions across domains such as membership, tithes, ministries, communication and finance. Previously, I built Node.js/TypeScript services for an international logistics operation, including freight and fuel financial engines. I'm also the co-founder of **Autonomus**, where I helped take two mobile products from idea to the App Store and Google Play.
+My core stack includes PHP, Laravel, Java, AWS, Azure, Kafka and RabbitMQ, with experience in system architecture, distributed systems, API design and automated testing.
+
+At Zinger Transportation, I increased load processing throughput by 200%, from 20 to 60 loads per second, while developing backend solutions for complex logistics operations in an international environment.
+
+Beyond software engineering, I'm a tech entrepreneur and a semifinalist in Brazil's largest startup reality show, with exclusive coverage featured on Globo and Globoplay. I've contributed to launching two mobile applications published on the App Store and Google Play and spoken at technology and innovation events, including Summit Iguassu Valley and Technovação.
+
+I hold a C2 English certification from the University of Cambridge and am interested in remote backend engineering opportunities with international teams, focusing on scalable systems, performance optimization and reliable software.
 
 ```text
 What I care about  →  clean boundaries, useful tests, observable systems and simple solutions
 How I work         →  ownership from discovery to deploy, clear communication and steady delivery
 Currently exploring → Java + Spring Boot, AI-enabled backends and cloud-native architecture
 ```
-
-## Selected work
-
-| Project | What I built | Stack |
-|---|---|---|
-| [**ByteBank Budgeting AI**](https://github.com/rafamolina1/dio-final-project) | An AI-assisted financial API with budgeting tools, category summaries, audio transcription and text-to-speech support. | Java 21, Spring Boot, Spring AI, JPA, MySQL, Docker |
-| **Domus Control** `current · production` | Church management SaaS with shared-database multi-tenancy and isolation per church. I define API and domain conventions and implement authentication, authorization and granular `own/all` permissions across membership, tithes, ministries, communication and finance. | PHP 8.4, Laravel 12, PostgreSQL, Sanctum, Spatie Data, Redis, Pest, Docker, S3 |
-| **Logistics Intelligence Services** `production` | Microservices and financial calculation engines for freight and fuel workflows, integrated with public and private APIs. | Node.js, TypeScript, REST, Jest, Docker |
-| [**Autonomus**](https://redeglobo.globo.com/rpc/realities/rocket-startup/vida/noticia/autonomus-a-startup-que-conecta-trabalhadores-autonomos-e-clientes-na-busca-de-servicos.ghtml) | Two mobile products published to the App Store and Google Play. The startup reached the semifinal of Globo's *Rocket* reality show. | Flutter, Dart, Laravel, PostgreSQL, Redis, DDD |
 
 ## Engineering toolbox
 
