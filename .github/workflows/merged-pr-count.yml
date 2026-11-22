@@ -1,0 +1,45 @@
+name: Update merged PR count
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+permissions:
+  contents: write
+concurrency: profile-pr-count
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Count merged pull requests
+        id: count
+        env:
+          GH_TOKEN: ${{ secrets.PR_COUNT_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$GH_TOKEN" ]]; then
+            echo "::error::Configure PR_COUNT_TOKEN in repository Actions secrets."
+            exit 1
+          fi
+          count=$(gh api --method GET search/issues -f q='author:rafamolina1 is:pr is:merged' -F per_page=1 --jq 'select(.incomplete_results == false) | .total_count')
+          [[ "$count" =~ ^[0-9]+$ ]]
+          echo "value=$count" >> "$GITHUB_OUTPUT"
+      - name: Publish only the aggregate count
+        env:
+          GH_TOKEN: ${{ github.token }}
+          COUNT: ${{ steps.count.outputs.value }}
+        run: |
+          set -euo pipefail
+          path="repos/$GITHUB_REPOSITORY/contents/README.md"
+          gh api "$path" > current.json
+          jq -r .content current.json | base64 -d > README.md
+          python3 - <<'PY'
+          import os, pathlib, re
+          p = pathlib.Path("README.md")
+          badge = f'<img src="https://img.shields.io/badge/Merged_PRs-{os.environ["COUNT"]}-8957E5?style=for-the-badge&amp;logo=github" alt="All-time merged pull requests" />'
+          content, matches = re.subn(r'<img [^>]*alt="All-time (?:public )?merged pull requests"[^>]*>', lambda _: badge, p.read_text())
+          if matches != 1:
+              raise SystemExit("Expected one merged PR badge")
+          p.write_text(content)
+          PY
+          if cmp -s README.md <(jq -r .content current.json | base64 -d); then exit 0; fi
+          jq -n --arg sha "$(jq -r .sha current.json)" --arg content "$(base64 -w0 README.md)" '{sha:$sha, content:$content, message:"Refresh all-time merged PR count"}' | gh api --method PUT "$path" --input - --silent
