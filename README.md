@@ -1,35 +1,14 @@
-<h1 align="center">Rafael Oliveira Molina</h1>
-<h3 align="center">Backend Engineer · Open Source Contributor</h3>
-<p align="center"><code>Backend Engineering • APIs • SaaS • Microservices</code></p>
+[![Rafael Oliveira Molina, Backend Engineer in Brazil. Three merged pull requests across Google and Cloudflare.](https://raw.githubusercontent.com/rafamolina1/rafamolina1/main/assets/upstream-profile.svg)](#open-source-contributions)
 
-<div align="center">
-  <a href="https://rafamolinadev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/rafaelmolinadev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rafaeloliveiramolina@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rafamolina1&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
+# Rafael Oliveira Molina
 
-## Hey, I'm Rafael 👋
+I’m a backend engineer from Brazil with five years of experience building APIs and distributed systems for logistics and SaaS. At Zinger Transportation, I tripled load processing throughput from **20 to 60 loads per second**. In open source, I work on Linux compatibility in **Google’s gVisor** and API documentation in **Cloudflare’s Chanfana**.
 
-I'm a Backend Software Engineer with 5 years of experience building backend systems across logistics, SaaS and on-demand platforms. I contribute to Google's gVisor and Cloudflare's Chanfana.
-
-My core stack includes PHP, Laravel, Java, AWS, Azure, Kafka and RabbitMQ, with experience in system architecture, distributed systems, API design and automated testing.
-
-At Zinger Transportation, I increased load processing throughput by 200%, from 20 to 60 loads per second, while developing backend solutions for complex logistics operations in an international environment.
-
-Beyond software engineering, I'm a tech entrepreneur and a semifinalist in Brazil's largest startup reality show, with exclusive coverage featured on Globo and Globoplay. I've contributed to launching two mobile applications published on the App Store and Google Play and spoken at technology and innovation events, including Summit Iguassu Valley and Technovação.
-
-I hold a C2 English certification from the University of Cambridge and am interested in remote backend engineering opportunities with international teams, focusing on scalable systems, performance optimization and reliable software.
-
-```text
-What I care about  →  clean boundaries, useful tests, observable systems and simple solutions
-How I work         →  ownership from discovery to deploy, clear communication and steady delivery
-Currently exploring → Java + Spring Boot, AI-enabled backends and cloud-native architecture
-```
+[Portfolio](https://rafamolinadev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rafaelmolinadev/) · [Email](mailto:rafaeloliveiramolina@gmail.com) · [Merged pull requests](https://github.com/search?q=author%3Arafamolina1+is%3Apr+is%3Amerged&type=pullrequests)
 
 ## Open source contributions
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/gvisor/gvisor/pull/17107"><img src="https://img.shields.io/badge/Google-1_merged_PR-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google: 1 merged pull request" /></a>
   <a href="https://github.com/cloudflare/chanfana/pulls?q=is%3Apr+is%3Amerged+author%3Arafamolina1"><img src="https://img.shields.io/badge/Cloudflare-2_merged_PRs-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare: 2 merged pull requests" /></a>
   <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Arafamolina1"><img src="https://img.shields.io/badge/Merged_PRs-3-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="3 merged pull requests" /></a>
@@ -43,7 +22,21 @@ Currently exploring → Java + Spring Boot, AI-enabled backends and cloud-native
 | **Cloudflare · Chanfana** | [#393](https://github.com/cloudflare/chanfana/pull/393) | Upgraded the API docs UI to ReDoc 3.1.0, disabled anonymous telemetry by default, and documented the migration. |
 | **Cloudflare · Chanfana** | [#388](https://github.com/cloudflare/chanfana/pull/388) | Added `redoc_options` to the Hono and itty-router adapters, enabling custom ReDoc attributes such as OpenAPI extension filters. |
 
-<!-- After each merge, add a row and update the badge counts. -->
+<!-- After each merge, add a row and update the badge counts and assets/upstream-profile.svg. -->
+
+## Professional background
+
+My core stack includes PHP, Laravel, Java, AWS, Azure, Kafka and RabbitMQ, with experience in system architecture, distributed systems, API design and automated testing.
+
+Beyond software engineering, I'm a tech entrepreneur and a semifinalist in Brazil's largest startup reality show, with exclusive coverage featured on Globo and Globoplay. I've contributed to launching two mobile applications published on the App Store and Google Play and spoken at technology and innovation events, including Summit Iguassu Valley and Technovação.
+
+I hold a C2 English certification from the University of Cambridge and am interested in remote backend engineering opportunities with international teams, focusing on scalable systems, performance optimization and reliable software.
+
+```text
+What I care about  →  clean boundaries, useful tests, observable systems and simple solutions
+How I work         →  ownership from discovery to deploy, clear communication and steady delivery
+Currently exploring → Java + Spring Boot, AI-enabled backends and cloud-native architecture
+```
 
 ## Engineering toolbox
 
