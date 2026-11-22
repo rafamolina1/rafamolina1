@@ -20,8 +20,16 @@ jobs:
             echo "::error::Configure PR_COUNT_TOKEN in repository Actions secrets."
             exit 1
           fi
+          # The account owner verified 105 private merged PRs on 2026-11-22.
+          # A smaller result indicates incomplete access or a visibility change.
+          private_count=$(gh api --method GET search/issues -f q='author:rafamolina1 is:pr is:merged is:private' -F per_page=1 --jq 'select(.incomplete_results == false) | .total_count')
+          if ! [[ "$private_count" =~ ^[0-9]+$ ]] || (( private_count < 105 )); then
+            echo "::error::Private PR search below the verified baseline. Check token repository access and organization approval."
+            exit 1
+          fi
           count=$(gh api --method GET search/issues -f q='author:rafamolina1 is:pr is:merged' -F per_page=1 --jq 'select(.incomplete_results == false) | .total_count')
           [[ "$count" =~ ^[0-9]+$ ]]
+          (( count >= private_count ))
           echo "value=$count" >> "$GITHUB_OUTPUT"
       - name: Publish only the aggregate count
         env:
