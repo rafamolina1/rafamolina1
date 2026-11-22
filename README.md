@@ -1,5 +1,5 @@
 <h1 align="center">Rafael Oliveira Molina</h1>
-<h3 align="center">Backend Engineer</h3>
+<h3 align="center">Backend Engineer · Open Source Contributor</h3>
 <p align="center"><code>Backend Engineering • APIs • SaaS • Microservices</code></p>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 ## Hey, I'm Rafael 👋
 
-I'm a Backend Software Engineer with 5 years of experience building backend systems across logistics, SaaS and on-demand platforms.
+I'm a Backend Software Engineer with 5 years of experience building backend systems across logistics, SaaS and on-demand platforms. I contribute to Google's gVisor and Cloudflare's Chanfana.
 
 My core stack includes PHP, Laravel, Java, AWS, Azure, Kafka and RabbitMQ, with experience in system architecture, distributed systems, API design and automated testing.
 
@@ -26,6 +26,24 @@ What I care about  →  clean boundaries, useful tests, observable systems and s
 How I work         →  ownership from discovery to deploy, clear communication and steady delivery
 Currently exploring → Java + Spring Boot, AI-enabled backends and cloud-native architecture
 ```
+
+## Open source contributions
+
+<div align="center">
+  <a href="https://github.com/gvisor/gvisor/pull/17107"><img src="https://img.shields.io/badge/Google-1_merged_PR-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google: 1 merged pull request" /></a>
+  <a href="https://github.com/cloudflare/chanfana/pulls?q=is%3Apr+is%3Amerged+author%3Arafamolina1"><img src="https://img.shields.io/badge/Cloudflare-2_merged_PRs-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare: 2 merged pull requests" /></a>
+  <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Arafamolina1"><img src="https://img.shields.io/badge/Merged_PRs-3-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="3 merged pull requests" /></a>
+</div>
+
+<br />
+
+| Project | Merged pull request | Contribution |
+| --- | --- | --- |
+| **Google · gVisor** | [#17107](https://github.com/gvisor/gvisor/pull/17107) | Fixed access control for `/proc/[pid]/fdinfo` in Go by enforcing ptrace read permission. Added regression tests in C++. |
+| **Cloudflare · Chanfana** | [#393](https://github.com/cloudflare/chanfana/pull/393) | Upgraded the API docs UI to ReDoc 3.1.0, disabled anonymous telemetry by default, and documented the migration. |
+| **Cloudflare · Chanfana** | [#388](https://github.com/cloudflare/chanfana/pull/388) | Added `redoc_options` to the Hono and itty-router adapters, enabling custom ReDoc attributes such as OpenAPI extension filters. |
+
+<!-- After each merge, add a row and update the badge counts. -->
 
 ## Engineering toolbox
 
