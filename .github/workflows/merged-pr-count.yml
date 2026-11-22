@@ -14,22 +14,28 @@ jobs:
         id: count
         env:
           GH_TOKEN: ${{ secrets.PR_COUNT_TOKEN }}
+          ORG_TOKEN: ${{ secrets.ORG_PR_COUNT_TOKEN }}
+          ORG_LOGIN: ${{ vars.PR_COUNT_ORG }}
         run: |
           set -euo pipefail
-          if [[ -z "$GH_TOKEN" ]]; then
-            echo "::error::Configure PR_COUNT_TOKEN in repository Actions secrets."
+          if [[ -z "$GH_TOKEN" || -z "$ORG_TOKEN" || ! "$ORG_LOGIN" =~ ^[A-Za-z0-9][A-Za-z0-9-]*$ ]]; then
+            echo "::error::Configure PR_COUNT_TOKEN, ORG_PR_COUNT_TOKEN and the PR_COUNT_ORG variable."
             exit 1
           fi
-          # The account owner verified 105 private merged PRs on 2026-11-22.
-          # A smaller result indicates incomplete access or a visibility change.
-          private_count=$(gh api --method GET search/issues -f q='author:rafamolina1 is:pr is:merged is:private' -F per_page=1 --jq 'select(.incomplete_results == false) | .total_count')
-          if ! [[ "$private_count" =~ ^[0-9]+$ ]] || (( private_count < 105 )); then
-            echo "::error::Private PR search below the verified baseline. Check token repository access and organization approval."
+          search_count() {
+            local n
+            n=$(gh api --method GET search/issues -f q="author:rafamolina1 is:pr is:merged $1" -F per_page=1 --jq 'select(.incomplete_results == false) | .total_count') || return 1
+            [[ "$n" =~ ^[0-9]+$ ]] || return 1
+            echo "$n"
+          }
+          public=$(search_count 'is:public')
+          personal=$(search_count 'is:private user:rafamolina1')
+          organization=$(GH_TOKEN="$ORG_TOKEN" search_count "is:private org:$ORG_LOGIN")
+          if (( organization == 0 || personal + organization < 105 )); then
+            echo "::error::The private count is below the verified baseline or organization access is missing."
             exit 1
           fi
-          count=$(gh api --method GET search/issues -f q='author:rafamolina1 is:pr is:merged' -F per_page=1 --jq 'select(.incomplete_results == false) | .total_count')
-          [[ "$count" =~ ^[0-9]+$ ]]
-          (( count >= private_count ))
+          count=$(( public + personal + organization ))
           echo "value=$count" >> "$GITHUB_OUTPUT"
       - name: Publish only the aggregate count
         env:
