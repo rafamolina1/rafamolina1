@@ -11,7 +11,7 @@ I’m a backend engineer from Brazil with five years of experience building APIs
 <div align="left">
   <a href="https://github.com/gvisor/gvisor/pull/17107"><img src="https://img.shields.io/badge/Google-1_merged_PR-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google: 1 merged pull request" /></a>
   <a href="https://github.com/cloudflare/chanfana/pulls?q=is%3Apr+is%3Amerged+author%3Arafamolina1"><img src="https://img.shields.io/badge/Cloudflare-2_merged_PRs-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare: 2 merged pull requests" /></a>
-  <a href="https://github.com/search?q=author%3Arafamolina1+is%3Apr+is%3Amerged&amp;type=pullrequests"><img src="https://img.shields.io/badge/Merged_PRs-4-8957E5?style=for-the-badge&amp;logo=github" alt="All-time merged pull requests" /></a>
+  <a href="https://github.com/search?q=author%3Arafamolina1+is%3Apr+is%3Amerged&amp;type=pullrequests"><img src="https://img.shields.io/badge/Merged_PRs-109-8957E5?style=for-the-badge&amp;logo=github" alt="All-time merged pull requests" /></a>
 </div>
 
 <br />
