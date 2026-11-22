@@ -18,8 +18,12 @@ jobs:
           ORG_LOGIN: ${{ vars.PR_COUNT_ORG }}
         run: |
           set -euo pipefail
-          if [[ -z "$GH_TOKEN" || -z "$ORG_TOKEN" || ! "$ORG_LOGIN" =~ ^[A-Za-z0-9][A-Za-z0-9-]*$ ]]; then
-            echo "::error::Configure PR_COUNT_TOKEN, ORG_PR_COUNT_TOKEN and the PR_COUNT_ORG variable."
+          if [[ -z "$GH_TOKEN" ]]; then
+            echo "::error::Missing repository Actions secret PR_COUNT_TOKEN."
+            exit 1
+          fi
+          if [[ ! "$ORG_LOGIN" =~ ^[A-Za-z0-9][A-Za-z0-9-]*$ ]]; then
+            echo "::error::Set PR_COUNT_ORG to the organization login."
             exit 1
           fi
           search_count() {
@@ -30,8 +34,15 @@ jobs:
           }
           public=$(search_count 'is:public')
           personal=$(search_count 'is:private user:rafamolina1')
-          organization=$(GH_TOKEN="$ORG_TOKEN" search_count "is:private org:$ORG_LOGIN")
-          if (( organization == 0 || personal + organization < 105 )); then
+          if ! organization=$(GH_TOKEN="${ORG_TOKEN:-$GH_TOKEN}" search_count "is:private org:$ORG_LOGIN") || (( organization == 0 )); then
+            if [[ -z "$ORG_TOKEN" ]]; then
+              echo "::error::PR_COUNT_TOKEN could not count private organization PRs. Add the repository Actions secret ORG_PR_COUNT_TOKEN."
+            else
+              echo "::error::Verify ORG_PR_COUNT_TOKEN access, organization approval and PR_COUNT_ORG."
+            fi
+            exit 1
+          fi
+          if (( personal + organization < 105 )); then
             echo "::error::The private count is below the verified baseline or organization access is missing."
             exit 1
           fi
