@@ -2,7 +2,7 @@
 
 # Rafael Oliveira Molina
 
-I’m a backend engineer from Brazil with five years of experience building APIs and distributed systems for logistics and SaaS. At Zinger Transportation, I tripled load processing throughput from **20 to 60 loads per second**. In open source, I work on Linux compatibility in **Google’s gVisor** and API documentation in **Cloudflare’s Chanfana**.
+I’m a backend engineer from Brazil with five years of experience building APIs and distributed systems for logistics and SaaS. At Zinger Transportation, I tripled load processing throughput from **20 to 60 loads per second**. In open source, I work on Linux compatibility in **Google’s gVisor**, API documentation in **Cloudflare’s Chanfana**, and accessibility in **GSA’s Data.gov catalog**.
 
 [Portfolio](https://rafamolinadev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rafaelmolinadev/) · [Email](mailto:rafaeloliveiramolina@gmail.com) · [Merged pull requests](https://github.com/search?q=author%3Arafamolina1+is%3Apr+is%3Amerged+is%3Apublic&type=pullrequests)
 
@@ -11,13 +11,15 @@ I’m a backend engineer from Brazil with five years of experience building APIs
 <div align="left">
   <a href="https://github.com/gvisor/gvisor/pull/17107"><img src="https://img.shields.io/badge/Google-1_merged_PR-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google: 1 merged pull request" /></a>
   <a href="https://github.com/cloudflare/chanfana/pulls?q=is%3Apr+is%3Amerged+author%3Arafamolina1"><img src="https://img.shields.io/badge/Cloudflare-2_merged_PRs-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare: 2 merged pull requests" /></a>
+  <a href="https://github.com/GSA/datagov-catalog/pull/521"><img src="https://img.shields.io/badge/GSA-Approved_PR-005EA2?style=for-the-badge" alt="GSA: approved pull request" /></a>
   <a href="https://github.com/search?q=author%3Arafamolina1+is%3Apr+is%3Amerged+is%3Apublic&amp;type=pullrequests"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%253Arafamolina1%2520is%253Apr%2520is%253Amerged%26per_page%3D1&amp;query=%24.total_count&amp;label=Merged%20PRs&amp;color=8957E5&amp;style=for-the-badge&amp;logo=github" alt="All-time public merged pull requests" /></a>
 </div>
 
 <br />
 
-| Project | Merged pull request | Contribution |
+| Project | Pull request | Contribution |
 | --- | --- | --- |
+| **GSA · Data.gov** | [#521](https://github.com/GSA/datagov-catalog/pull/521) · Approved, awaiting merge | Restored accessible colors for file format badges in the U.S. federal data catalog. Added 20 browser test cases covering contrast, keyboard focus and other regressions across the 13-color palette. |
 | **Google · gVisor** | [#17107](https://github.com/gvisor/gvisor/pull/17107) | Fixed access control for `/proc/[pid]/fdinfo` in Go by enforcing ptrace read permission. Added regression tests in C++. |
 | **Cloudflare · Chanfana** | [#393](https://github.com/cloudflare/chanfana/pull/393) | Upgraded the API docs UI to ReDoc 3.1.0, disabled anonymous telemetry by default, and documented the migration. |
 | **Cloudflare · Chanfana** | [#388](https://github.com/cloudflare/chanfana/pull/388) | Added `redoc_options` to the Hono and itty-router adapters, enabling custom ReDoc attributes such as OpenAPI extension filters. |
